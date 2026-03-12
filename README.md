@@ -75,7 +75,7 @@ Crimson-Heart 并非单一脚本，而是由多个神经模块构成的生态。
 
 ```bash
 # 建议 Python 3.10+
-git clone https://github.com/你的用户名/Crimson.git
+git clone https://github.com/YEYVHAIOU/Crimson-Heart.git
 cd Crimson
 pip install -r requirements.txt
 ```
